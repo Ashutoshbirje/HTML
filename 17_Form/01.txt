@@ -1,0 +1,54 @@
+# <form> </form>
+--> action
+--> method
+--> autocomplete (ON / OFF)
+--> nonvalidate
+
+
+# <label></label>
+--> for
+
+# <input>
+--> id
+--> name
+--> type
+  >> color
+  >> date
+  >> datetime-local
+  >> email
+  >> file 
+  >> hidden 
+  >> image
+  >> month
+  >> number
+  >> password
+  >> range
+  >> reset
+  >> search
+  >> tel
+  >> time
+  >> url
+  >> week
+  >> text
+  >> radio
+  >> checkbox
+  >> submit
+  >> button
+
+# <select></select>
+--> size
+# <option> </option>
+--> value
+--> selected
+
+# textarea
+--> name
+--> rows
+--> cols
+
+# button
+
+# <fieldset> </fieldset>
+# <legend> </legend>
+
+#<datalist> </datalist>

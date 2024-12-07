@@ -1,0 +1,12 @@
+# <blockquote>
+--> to define a section is quoted from another source
+# <q>
+--> add " " mark to the sentence
+# <abbr>
+--> to tag/hyper Abbreviation
+# <address>
+--> to give contact information 
+# <cite>
+--> to define title of a creative work
+# <bdo>
+--> to override the current text direction

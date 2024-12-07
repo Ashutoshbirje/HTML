@@ -1,0 +1,29 @@
+ # <table>
+--> Defines the structure of table
+
+ # <tr>
+--> Table row
+
+ # <td>
+--> Table data/cell (tr>td)
+
+ # <th>
+--> Table header / bold and center (tr>th)
+
+ # <caption>
+--> Table caption
+
+ # <colgroup>
+
+
+ # <col>
+
+
+ # <thead>
+--> Table header
+
+ # <tbody>
+--> Table body
+
+ # <tfoot>
+--> Table footer

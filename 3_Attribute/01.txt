@@ -1,0 +1,64 @@
+HTML attributes
+--> additional information about element
+--> declared in start tag
+
+Syntex
+--> name="property:value"
+
+ # <a></a>
+--> href (specifies the URL)
+--> target (specifies where to open the linked document)
+--> title
+
+ # <img>
+--> src  (path to particular location/URL)
+--> height
+--> width
+--> alt  (specifies the alternate text for image)
+--> style (to style the element)
+   >> background-image: url('link')
+   >> background-repeat: no-repeat
+   >> background-size:cover
+   >> background-attachment: fixed
+--> float (To align an image to L / R)
+--> Usemap="#name_of_image_map" (relation b/w the image and image map)
+
+ # <html> </html>
+--> lang
+
+ # element
+--> title
+
+ # map
+--> name
+
+ # Area
+--> Shape (rect/circle/poly/default)
+
+ # Table
+--> style 
+  >> border
+  >> border-size
+  >> border-style
+  >> border-color
+  >> border-collapse
+  >> border-radius
+  >> border-Spacing
+  >> width
+  >> height
+  >> text-align
+
+--> colspan
+--> rowspan
+--> padding (T R B L)
+ 
+ # List
+<!--Unordered list-->
+--> style
+  >> list-style-type (disc/circle/square/none)
+
+<!--Ordered list-->
+--> type (1/A/a/I/i)
+--> start 
+
+  
